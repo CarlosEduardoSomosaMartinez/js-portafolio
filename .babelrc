@@ -1,0 +1,10 @@
+{
+    //configuracion de babel presets
+    "presets": [
+        "@babel/preset-env"
+    ],
+    "plugins": [
+        "@babel/plugin-transform-runtime"
+    ]
+
+}
